@@ -1,6 +1,6 @@
 # VoyageX - Next-Gen Travel Platform
-https://voyager-x2-a0fu576an-abhis-projects-ef1dfe3f.vercel.app/destinations
-Visit this link 
+https://voyager-x2-a0fu576an-abhis-projects-ef1dfe3f.vercel.app
+ 
 A modern, AI-powered travel platform built with Next.js, React Three Fiber, and 
 Tailwind CSS.
 
